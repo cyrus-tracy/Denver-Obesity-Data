@@ -33,7 +33,7 @@ The data in this repository is very useful and can be manipulated in many ways.
 
 ![Map displaying obesity rates in Denvers Neighborhoods](Visualizations/ChildhoodObesityMap.png)
 
-This visualization depicts obesity rates in different Denver neighborhoods, and is a prime exmaple of how this data can be used. This map clearly shows a trend in the data where Boradway is divider: neighborhoods to the west of Boradway are more obese than those to the east. Many similar powerful visualizations can be made using this data. If a map is the intended visualization, it is best that the `.geojson` file is uploaded to Datawrapper (referenced below).
+This visualization depicts obesity rates in different Denver neighborhoods, and is a prime exmaple of how this data can be used. This map clearly shows a trend in the data where Boradway is divider: neighborhoods to the west of Broadway are more obese than those to the east. Many similar powerful visualizations can be made using this data. If a map is the intended visualization, it is best that the `.geojson` file is uploaded to Datawrapper (referenced below).
 
 
 ## 4. Acknowledgements: 

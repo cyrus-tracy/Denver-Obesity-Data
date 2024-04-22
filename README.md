@@ -1,12 +1,13 @@
 # README File: Denver's Obesity Data
 
 
-This data repository was created for ENGL 105.015, taught in the Spring of 2024 by Dr. Goetzler. 
+This data repository was created for ENGL105.015, taught in the Spring of 2024 by Dr. Gotzler. 
 
 *In this README file, you will find:* 
 1. Repository Contents
 2. How to use the repository
-3. Acknowldegments
+3. Example Visualization
+4. Acknowldegments
 
 ## 1. Repository Contents
 
@@ -19,7 +20,23 @@ In this repository, you will find 5 files:
 
 ## 2. How to use this repository
 
-The data in this repository is very useful and can be manipulated in many ways. 
+*Data in this repository can be used to communicate the varying obesity rates of Denvers different neighborhoods*
+
+The data in this repository is very useful and can be manipulated in many ways.
+
 - If you have no experience with manipulation of data using Python, you should start with the python notbeook.
 - If you would like to see that original data, access the OriginalData folder
 - If you would like to see examples of how to use this data, access the Visualizations folder or the DataSubset `.csv` file
+- If you are interested in visualizing this data with a map of Denver, consider using the `.geojson` file (See example visualization)
+
+## 3. Example Visualization:
+
+
+
+
+## 4. Acknowledgements: 
+
+This repository was created for Dr. Gotzler's ENGL105 class, and would not be possible without his teaching.
+
+Original data comes from the [Denver Open Data Catalog.](https://denvergov.org/opendata) There are many more useful datasets that can be accessed and manipulated there. 
+ 

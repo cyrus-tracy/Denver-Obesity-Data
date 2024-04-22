@@ -11,10 +11,10 @@ In this README file, you will find:
 ## 1. Repository Contents
 
 In this repository, you will find 5 files:
-1. Two `.csv` files with obesity data from Denver, 2014-2016
+1. Two `.csv` files with obesity data from Denver, 2014-2016 (OriginalData Folder)
 2. A python notebook (`.ipynb` file) with instructions on how to create subsets from this data
 3. An example subset in `.csv` file format
-4. Two `.png` files of example visualizations from the dataset
+4. Two `.png` files of example visualizations from the dataset (Visualizations Folder)
 5. A `.geojson` file useful for data visualization
 
 ## 2. How to use this repository

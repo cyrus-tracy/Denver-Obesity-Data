@@ -19,5 +19,7 @@ In this repository, you will find 5 files:
 
 ## 2. How to use this repository
 
-The data in this repository is very useful and can be manipulated in many ways. If you have no experience with manipulation of data using Python, you should start with the python notbeook.
-If you have 
+The data in this repository is very useful and can be manipulated in many ways. 
+- If you have no experience with manipulation of data using Python, you should start with the python notbeook.
+- If you would like to see that original data, access the OriginalData folder
+- If you would like to see examples of how to use this data, access the 

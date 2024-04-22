@@ -31,7 +31,9 @@ The data in this repository is very useful and can be manipulated in many ways.
 
 ## 3. Example Visualization:
 
-![Map displaying obesity rates in Denvers Neighborhoods](/Denver-Obesity-Data/Visualizations/ChildhoodObesityMap.png)
+![Map displaying obesity rates in Denvers Neighborhoods](Visualizations/ChildhoodObesityMap.png)
+
+This visualization depicts obesity rates in different Denver neighborhoods, and is a prime exmaple of how this data can be used. It was made using Datawrapper and geographic data (referenced below).
 
 
 ## 4. Acknowledgements: 

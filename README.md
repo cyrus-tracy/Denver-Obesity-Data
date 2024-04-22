@@ -31,7 +31,7 @@ The data in this repository is very useful and can be manipulated in many ways.
 
 ## 3. Example Visualization:
 
-
+![Map displaying obesity rates in Denvers Neighborhoods](/Denver-Obesity-Data/Visualizations/)
 
 
 ## 4. Acknowledgements: 
@@ -39,4 +39,10 @@ The data in this repository is very useful and can be manipulated in many ways.
 This repository was created for Dr. Gotzler's ENGL105 class, and would not be possible without his teaching.
 
 Original data comes from the [Denver Open Data Catalog.](https://denvergov.org/opendata) There are many more useful datasets that can be accessed and manipulated there. 
- 
+
+The `.geojson` file is from another GitHub repository, linked [here.](https://github.com/blackmad/neighborhoods/blob/master/denver.geojson) This is an excellent resource for daata visualizaiton at the city scale. 
+
+Data visualizations were created with [Datawrapper](https://app.datawrapper.de/)
+
+
+

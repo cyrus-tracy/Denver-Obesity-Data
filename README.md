@@ -33,7 +33,7 @@ The data in this repository is very useful and can be manipulated in many ways.
 
 ![Map displaying obesity rates in Denvers Neighborhoods](Visualizations/ChildhoodObesityMap.png)
 
-This visualization depicts obesity rates in different Denver neighborhoods, and is a prime exmaple of how this data can be used. It was made using Datawrapper and geographic data (referenced below).
+This visualization depicts obesity rates in different Denver neighborhoods, and is a prime exmaple of how this data can be used. This map clearly shows a trend in the data where Boradway is divider: neighborhoods to the west of Boradway are more obese than those to the east. Many similar powerful visualizations can be made using this data. If a map is the intended visualization, it is best that the `.geojson` file is uploaded to Datawrapper (referenced below).
 
 
 ## 4. Acknowledgements: 
@@ -44,7 +44,7 @@ Original data comes from the [Denver Open Data Catalog.](https://denvergov.org/o
 
 The `.geojson` file is from another GitHub repository, linked [here.](https://github.com/blackmad/neighborhoods/blob/master/denver.geojson) This is an excellent resource for daata visualizaiton at the city scale. 
 
-Data visualizations were created with [Datawrapper](https://app.datawrapper.de/)
+Data visualizations were created with [Datawrapper,](https://app.datawrapper.de/) an excellent free tool for data visualization. 
 
 
 

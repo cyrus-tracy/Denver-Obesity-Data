@@ -11,10 +11,10 @@ This data repository was created for ENGL105.015, taught in the Spring of 2024 b
 
 ## 1. Repository Contents:
 
-In this repository, you will find 5 files:
+In this repository, you will find  files:
 1. Two `.csv` files with obesity data from Denver, 2014-2016 (Data Folder)
-2. A python notebook (`.ipynb` file) with instructions on how to create subsets from this data
-3. An example subset in `.csv` file format (Data Folder)
+2. An example subset in `.csv` file format (Data Folder)
+3. A python notebook (`.ipynb` file) with instructions on how to create subsets from this data
 4. Two `.png` files of example visualizations from the dataset (Visualizations Folder)
 5. A `.geojson` file useful for data visualization (Visualizations Folder)
 
@@ -27,7 +27,7 @@ The data in this repository is very useful and can be manipulated in many ways.
 - If you have no experience with manipulation of data using Python, you should start with the python notbeook.
 - If you would like to see that original data, access the OriginalData folder
 - If you would like to see examples of how to use this data, access the Visualizations folder or the DataSubset `.csv` file
-- If you are interested in visualizing this data with a map of Denver, consider using the `.geojson` file (See example visualization)
+- If you are interested in visualizing this data with a map of Denver, consider incorporating the `.geojson` file (See example visualization)
 
 ## 3. Example Visualization:
 

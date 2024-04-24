@@ -4,9 +4,9 @@
 This data repository was created for ENGL105.015, taught in the Spring of 2024 by Dr. Gotzler. 
 
 *In this README file, you will find:* 
-1. Repository Contents
+1. Repository contents
 2. How to use the repository
-3. Example Visualization
+3. Example visualization
 4. Acknowldegments
 
 ## 1. Repository Contents

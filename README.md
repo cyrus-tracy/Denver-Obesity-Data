@@ -14,7 +14,7 @@ This data repository was created for ENGL105.015, taught in the Spring of 2024 b
 In this repository, you will find 5 files:
 1. Two `.csv` files with obesity data from Denver, 2014-2016 (Data Folder)
 2. A python notebook (`.ipynb` file) with instructions on how to create subsets from this data
-3. An example subset in `.csv` file format (Data FOlder)
+3. An example subset in `.csv` file format (Data Folder)
 4. Two `.png` files of example visualizations from the dataset (Visualizations Folder)
 5. A `.geojson` file useful for data visualization (Visualizations Folder)
 

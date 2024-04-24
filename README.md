@@ -40,6 +40,8 @@ This visualization depicts obesity rates in different Denver neighborhoods, and 
 
 This repository was created for Dr. Gotzler's ENGL105 class, and would not be possible without his teaching.
 
+The Python notebook was created using [Google Colab](https://colab.google/)
+
 Original data comes from the [City of Denver Open Data Catalog.](https://denvergov.org/opendata) There are many more useful datasets that can be accessed and manipulated there. The data is liscensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 The `.geojson` file is from another GitHub repository, linked [here.](https://github.com/blackmad/neighborhoods/blob/master/denver.geojson) This is an excellent resource for daata visualizaiton at the city scale. 

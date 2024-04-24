@@ -9,7 +9,7 @@ This data repository was created for ENGL105.015, taught in the Spring of 2024 b
 3. Example visualization
 4. Acknowldegments
 
-## 1. Repository Contents
+## 1. Repository Contents:
 
 In this repository, you will find 5 files:
 1. Two `.csv` files with obesity data from Denver, 2014-2016 (Data Folder)
@@ -18,7 +18,7 @@ In this repository, you will find 5 files:
 4. Two `.png` files of example visualizations from the dataset (Visualizations Folder)
 5. A `.geojson` file useful for data visualization (Visualizations Folder)
 
-## 2. How to use this repository
+## 2. How to use this repository:
 
 *Data in this repository can be used to communicate the varying obesity rates of Denvers different neighborhoods*
 

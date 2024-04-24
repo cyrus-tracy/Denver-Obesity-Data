@@ -44,7 +44,7 @@ The Python notebook was created using [Google Colab](https://colab.google/)
 
 Original data comes from the [City of Denver Open Data Catalog.](https://denvergov.org/opendata) There are many more useful datasets that can be accessed and manipulated there. The data is liscensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-The `.geojson` file is from another GitHub repository, linked [here.](https://github.com/blackmad/neighborhoods/blob/master/denver.geojson) This is an excellent resource for daata visualizaiton at the city scale. 
+The `.geojson` file is from another [GitHub Repository](https://github.com/blackmad/neighborhoods/blob/master/denver.geojson) This is an excellent resource for data visualizaiton at the city scale. 
 
 Data visualizations were created with [Datawrapper,](https://app.datawrapper.de/) an excellent free tool for data visualization. 
 
